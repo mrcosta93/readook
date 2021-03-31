@@ -31,7 +31,7 @@ Um APP que integra estudantes de diversas áreas e níveis sócio-econômicos e 
 [Daniel]  
 
 # Licença
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a licença freeware
 
 # Agradecimentos
 Agradecemos a nós mesmos, nossa inteligência, nossa capacidade, nossa criatividade, nossa perfeição e, acima de tudo, nossa humildade. E ao Google.
