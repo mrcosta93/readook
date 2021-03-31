@@ -23,15 +23,15 @@ Um APP que integra estudantes de diversas áreas e níveis sócio-econômicos e 
 # Contribuição
 
 # Autores
-[Marcos](https://github.com/mrcosta93)
-[Thúlio](https://github.com/thulioplopes)
-[Isamara](https://github.com/IsamaraJangola)
-[Loyanne]
-[Lucas]
-[Daniel]
+[Marcos](https://github.com/mrcosta93)  
+[Thúlio](https://github.com/thulioplopes)  
+[Isamara](https://github.com/IsamaraJangola)   
+[Loyanne]  
+[Lucas]  
+[Daniel]  
 
 # Licença
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
-Agradecemos a Deus e a nós mesmos. E é isso. 
+Agradecemos a nós mesmos, nossa inteligência, nossa capacidade, nossa criatividade, nossa perfeição e, acima de tudo, nossa humildade. E ao Google.
