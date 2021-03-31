@@ -34,4 +34,4 @@ Um APP que integra estudantes de diversas áreas e níveis sócio-econômicos e 
 Este projeto está licenciado sob a licença freeware. Para mais informações, acesse [LICENSE.md](LICENSE.md)
 
 # Agradecimentos
-Agradecemos a nós mesmos, nossa inteligência, nossa capacidade, nossa criatividade, nossa perfeição e, acima de tudo, nossa humildade. E ao Google.
+Agradecemos a nós mesmos, nossa inteligência, nossa capacidade, nossa criatividade, nossa dedicação e, acima de tudo, nossa humildade. E ao Google.
