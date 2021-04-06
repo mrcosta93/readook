@@ -1,4 +1,5 @@
 # Readook
+![Capa do projeto](https://media.gettyimages.com/photos/young-man-reading-a-book-hand-close-up-picture-id1165926191?s=2048x2048)
 # Sobre o projeto
 Um APP que integra estudantes de diversas áreas e níveis sócio-econômicos e que viabiliza a troca, compra e venda de materiais didáticos entre eles.
 
@@ -26,9 +27,9 @@ Um APP que integra estudantes de diversas áreas e níveis sócio-econômicos e 
 [Marcos](https://github.com/mrcosta93)  
 [Thúlio](https://github.com/thulioplopes)  
 [Isamara](https://github.com/IsamaraJangola)   
-[Loyanne]  
-[Lucas]  
-[Daniel]  
+[Loyanne](https://github.com/Loyanner)  
+[Lucas](https://github.com/etruscodb)  
+[Daniel](https://github.com/Danielsammy)  
 
 # Licença
 Este projeto está licenciado sob a licença freeware. Para mais informações, acesse [LICENSE.md](LICENSE.md)
